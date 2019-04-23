@@ -1,0 +1,15 @@
+1.Project Presentation
+2. Video
+3. 100% Project implementation
+4. Project Report
+5. Log Note
+
+Format for presentation:
+1. Introduction
+2. Problem statement
+3. Proposed Solution
+4. Intended Users
+5. Scope
+6. Hardware and software requirement
+
+Imp notice:   The presentation, report and video must be prior signed by your guide before the exhibition. Entries in the log note is also be prepared by you.
